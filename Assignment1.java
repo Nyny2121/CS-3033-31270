@@ -69,7 +69,7 @@ class Pet {
 
 	public void display() {
 		System.out.println("A "+age+" year old "+species+" named "
-							+name+" that weighs "+weight+" pounds.");
+			+name+" that weighs "+weight+" pounds.");
 	}
 
 }
